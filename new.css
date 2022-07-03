@@ -8,3 +8,15 @@ i{
     color: blue;
     background-color: black;
 }
+h3{
+    color: chartreuse;
+    background-color: azure;
+    display: flex;
+    justify-content: center;
+}
+.etc{
+    color: crimson;
+    background-color: aqua;
+}
+
+   
